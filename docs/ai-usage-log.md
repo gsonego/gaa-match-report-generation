@@ -4,7 +4,6 @@ Generative AI tools were used in this project in line with the DkIT Academic Int
 
 - One entry per work session that informed a decision, a method or a deliverable. Sessions with no bearing on the project are omitted.
 - The main prompt is quoted verbatim or lightly trimmed.
-- The full, unedited session records are kept by the author and are available on request.
 - Prompts used in the experiments are part of the method and are kept separately in [`prompts/`](../prompts/).
 
 Responsibility for all research decisions and for the final text remains with the author.
@@ -32,6 +31,7 @@ Responsibility for all research decisions and for the final text remains with th
 ## Entries
 
 ### 2026-10-18: Repository structure and roadmap consolidation
+
 - Category: Structuring / planning
 - Tool / model: Claude (claude-opus-5-5)
 - Main prompt: "Compare the earlier decisions log with the roadmap approved by my supervisor, explain each item that could be carried over, and help me decide item by item."
