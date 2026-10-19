@@ -24,6 +24,8 @@ Template:
 
 ### Done
 - Repository reorganised; journal and meeting log in place.
+- Supervisor questions rewritten for the 20 Oct meeting, with a new question on project depth.
+- API access for the pilot model (OpenAI gpt-6.1-sol) set up and tested.
 
 ### Problems / decisions
 - The meeting with the supervisor replaces the email planned in the roadmap for raising the priority A questions.

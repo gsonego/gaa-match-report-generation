@@ -30,6 +30,15 @@ Responsibility for all research decisions and for the final text remains with th
 
 ## Entries
 
+### 2026-10-19: Kick-off: supervisor questions, repository layout and API access
+
+- Category: Structuring / planning
+- Tool / model: Claude (claude-opus-5-5)
+- Main prompt: "Guide me step by step through today's kick-off tasks; rewrite the supervisor questions more concisely and explain each one in plain terms."
+- How the output was used or changed: the author asked for the questions to be shortened, added a question on the depth of the project and a suggestion to compare several generator models in a second phase, and decided the repository layout and the pilot model.
+- Verification: the Wikipedia limitations were checked on the 2025 championship page; model pricing was checked against public sources.
+- Decision informed: questions for the supervisor meeting of 20 Oct 2026; repository layout; pilot model (OpenAI gpt-6.1-sol).
+
 ### 2026-10-18: Repository structure and roadmap consolidation
 
 - Category: Structuring / planning
