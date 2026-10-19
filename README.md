@@ -8,12 +8,13 @@ MSc in Applied Data Science dissertation — Dundalk Institute of Technology (20
 
 | Folder | Content |
 |---|---|
-| `src/` | Source code |
 | `data/` | Data description and processed datasets (no raw third-party data) |
+| `notebooks/` | Exploratory analysis and result notebooks |
+| `scripts/` | Collection, parsing, generation and verification code |
+| `models/` | Verifier configurations: rules, prompts and thresholds |
 | `prompts/` | Experiment prompts, versioned |
-| `results/` | Final results |
-| `journal/` | Weekly project journal |
-| `docs/` | Supporting documents, including the AI usage log |
+| `outputs/` | Generated reports, verifier outputs and final results |
+| `docs/` | Journal, supervisor meetings and AI usage log |
 
 ## Status
 
