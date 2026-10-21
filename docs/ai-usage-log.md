@@ -30,6 +30,15 @@ Responsibility for all research decisions and for the final text remains with th
 
 ## Entries
 
+### 2026-10-21: Wikipedia collection and alternative data source
+
+- Category: Data
+- Tool / model: Claude (claude-opus-5-5)
+- Main prompt: "Start the Wikipedia collection, and help me judge whether the data is rich enough; assess the Foireann open data API as an alternative."
+- How the output was used or changed: the author ran the collection script on their own machine; the author asked for each step to be approved before it was run and wrote and sent the email to Foireann.
+- Verification: scorer totals were checked against match scores for the 2024 knockout games; the API specification was read directly.
+- Decision informed: the pilot data source stays Wikipedia; access to the Foireann API was requested.
+
 ### 2026-10-19: Kick-off: supervisor questions, repository layout and API access
 
 - Category: Structuring / planning
