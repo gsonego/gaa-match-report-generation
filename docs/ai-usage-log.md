@@ -30,6 +30,15 @@ Responsibility for all research decisions and for the final text remains with th
 
 ## Entries
 
+### 2026-10-24: Wikipedia match parsing, sum test, exclusion log and pilot sample
+
+- Category: Data / Code
+- Tool / model: Claude (claude-opus-5-5, then claude-sonnet-5-5)
+- Main prompt: "If we have enough data to start, let's exclude the inconsistencies. I'd like a summary of these situations recorded so we can put it in the dissertation."
+- How the output was used or changed: the author asked for each step to be explained and approved before it was run. The author widened the scope from the All-Ireland knockout games to any match with complete data, decided to exclude inconsistent matches and log every exclusion, left matches that went to extra time or penalties out for now, and chose a seeded random draw for the pilot over a planned selection. A first parser fix caused a regression (2021 dropped from 6 to 4 matches passing the sum test); it was caught by comparing runs and then corrected.
+- Verification: the sum test (scorers add up to the final score) was run over all 154 match boxes of the 2021-2024 season pages, and the pilot draw was run twice with identical output. The author checked by hand, against the raw page text, that the scorers of Dublin v Kildare (2022) add up to the listed score and that the Leitrim v Sligo (2024) scorer list is one point short of the listed score; one pilot match (Armagh v Kerry, 2024) was compared with the Wikipedia page of the saved revision.
+- Decision informed: inclusion rule (sum test), exclusion log kept for the dissertation, pilot sample of 10 matches drawn at random (seed 2026) from the 131 that pass.
+
 ### 2026-10-21: Wikipedia collection and alternative data source
 
 - Category: Data
