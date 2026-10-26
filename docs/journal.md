@@ -42,4 +42,8 @@ Template:
 - The half-time score is present in only 5 of the 154 match boxes, so claims about the flow of a match are possible for very few matches.
 
 ### Next week
-- To be filled on Sunday 25 Oct.
+- Mon 26: validation of 20 random matches against RTE Sport (carried over from Sat 24); checkpoint of Gates 1 and 2.
+- Before Wed 28: prompt v1 versioned in `prompts/`.
+- Wed 28: pilot run, 10 reports generated with gpt-6.1-sol from the sampled matches; model id and timestamp saved with the outputs.
+- Thu 29 - Fri 30: pilot error table (claims checked against the source data); EDA notebook and figures.
+- Sat 31 - Sun 1 Nov: interim report written and submitted by 13:00 on Sun 1 Nov.
