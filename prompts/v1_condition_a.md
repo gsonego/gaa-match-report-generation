@@ -13,14 +13,14 @@ The text below is sent as a single user message. Placeholders in braces are fill
 ```
 Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.
 
-Competition: All-Ireland Senior Football Championship {year}
+Competition: Senior Football Championship {year}
 Round: {round}
 Date: {date}
 
 {team1}: {score_team1}
 {team2}: {score_team2}
 
-Scores are written as goals-points.
+Scores are written as goals-points (1 goal = 3 points).
 
 Scorers for {team1}: {scorers_team1}
 Scorers for {team2}: {scorers_team2}
@@ -40,5 +40,6 @@ Scorers for {team2}: {scorers_team2}
 ## Rationale
 
 - Baseline condition: no instruction to avoid invention, so the errors that occur are the ones a plain request produces.
-- The scoring notation is named but the conversion (1 goal = 3 points) is not given, so the winner and margin have to be calculated by the model.
+- The scoring notation and its conversion (1 goal = 3 points) are given, as a newsroom would give them, so the test is whether the model calculates the winner and margin correctly, not whether it knows the rules. Condition B adds the pre-computed totals, winner and margin.
+- The competition is given without a province or "All-Ireland" because the source data records the round, not the competition.
 - Venue, man of the match and match report links are not provided: they are outside the claim types kept after Gate 2 (final score, winner, scorers with totals, margin).
