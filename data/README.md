@@ -33,3 +33,10 @@ To rebuild: `python scripts/parse_matches.py` (needs the files in `data/raw/`).
 |---|---|
 | `pilot_games.csv` | 10 matches drawn at random (seed 2026) from the 131 included matches, by `scripts/select_pilot.py`. The same seed and input give the same ten matches |
 | `pilot_inputs.json` | Structured input of those matches, written by `scripts/export_pilot_inputs.py`: teams, date, round, score and the scorer lists as written in the source. Each match also has a `truth` block (points, winner, margin; 1 goal = 3 points) used to check the reports, which is not sent to the model |
+
+## Validation against an independent source (`data/processed/`)
+
+| File | Content |
+|---|---|
+| `validation_games.xlsx` | 20 matches (the 10 pilot matches plus 10 drawn at random, seed 2027) compared by hand with RTE Sport: score, date, round, winner and, for the pilot matches, the top scorer and total. The "How to" sheet explains the columns |
+| `validation_summary.md` | Method, results and limits of the check |
