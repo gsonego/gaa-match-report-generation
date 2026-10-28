@@ -26,3 +26,10 @@ Produced from the raw pages by `scripts/parse_matches.py`. A match is included o
 | `matches_summary.md` | Counts per season page and per exclusion reason |
 
 To rebuild: `python scripts/parse_matches.py` (needs the files in `data/raw/`).
+
+## Pilot sample (`data/processed/`)
+
+| File | Content |
+|---|---|
+| `pilot_games.csv` | 10 matches drawn at random (seed 2026) from the 131 included matches, by `scripts/select_pilot.py`. The same seed and input give the same ten matches |
+| `pilot_inputs.json` | Structured input of those matches, written by `scripts/export_pilot_inputs.py`: teams, date, round, score and the scorer lists as written in the source. Each match also has a `truth` block (points, winner, margin; 1 goal = 3 points) used to check the reports, which is not sent to the model |

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "year": 2021,
+    "line": 81,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368408440",
+    "date": "25 July 2021",
+    "round": "Connacht Final",
+    "team1": "Mayo",
+    "team2": "Galway",
+    "score": {
+      "team1": "2-14",
+      "team2": "2-8"
+    },
+    "scorers": {
+      "team1": "Ryan O'Donoghue 1-3 (1-0 pen, 0-2f), Matthew Ruane 1-2, Conor Loftus and Tommy Conroy 0-2 each, Rob Hennelly (1 '45), Paddy Durcan, Darren McHale, Kevin McLoughlin, James Carr 0-1 each",
+      "team2": "Shane Walsh 1-1, Matthew Tierney 0-4 (0-3f), Damien Comer 1-0, Paul Conroy 0-2, Cathal Sweeney 0-1"
+    },
+    "truth": {
+      "points": {
+        "team1": 20,
+        "team2": 14
+      },
+      "winner": "Mayo",
+      "margin_points": 6
+    }
+  },
+  {
+    "id": 2,
+    "year": 2023,
+    "line": 473,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368377747",
+    "date": "9 April 2023",
+    "round": "Preliminary Round",
+    "team1": "Laois",
+    "team2": "Wexford",
+    "score": {
+      "team1": "2-17",
+      "team2": "2-13"
+    },
+    "scorers": {
+      "team1": "Mark Barry 2-4 (2fs, 1m), Evan O'Carroll 0-6 (1f, 1m, 145), Paul Kingston 0-4 (3fs), Damon Larkin 0-2, Paddy O'Sullivan 0-1",
+      "team2": "Ben Brosnan 1-7 (1-0 pen, 5fs), Robbie Brooks 1-1, Sean Nolan 0-2, Paudie Hughes 0-1, Kevin O'Grady 0-1, Eoghan Nolan 0-1 (1 45)"
+    },
+    "truth": {
+      "points": {
+        "team1": 23,
+        "team2": 19
+      },
+      "winner": "Laois",
+      "margin_points": 4
+    }
+  },
+  {
+    "id": 3,
+    "year": 2023,
+    "line": 709,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368377747",
+    "date": "8 April 2023",
+    "round": "Preliminary round",
+    "team1": "Armagh",
+    "team2": "Antrim",
+    "score": {
+      "team1": "0-20",
+      "team2": "1-8"
+    },
+    "scorers": {
+      "team1": "Conor Turbitt 0-8 (0-3f, 0-1m), Shane McPartlan 0-4, Rory Grugan 0-3 (0-1f), Ethan Rafferty 0-1 (0-1f), Ciaran Mackin 0-1, Stefan Campbell 0-1, Jemar Hall 0-1, Tiernan Kelly 0-1",
+      "team2": "Conor Stewart 1-1, Ruairi McCann (Creggan) 0-1 (0-1f), Ryan Murray 0-1 (0-1f), Eoghan McCabe 0-1, James McAuley 0-1, Pat Shivers 0-1, Ruairi McCann (Aghagallon) 0-1, Odhrán Eastwood 0-1"
+    },
+    "truth": {
+      "points": {
+        "team1": 20,
+        "team2": 11
+      },
+      "winner": "Armagh",
+      "margin_points": 9
+    }
+  },
+  {
+    "id": 4,
+    "year": 2023,
+    "line": 1476,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368377747",
+    "date": "27 May 2023",
+    "round": "Round 1",
+    "team1": "Derry",
+    "team2": "Monaghan",
+    "score": {
+      "team1": "0-14",
+      "team2": "0-14"
+    },
+    "scorers": {
+      "team1": "Shane McGuigan 0-9 (0-6f, 0-1m), Niall Toner 0-2 (0-1f), Ethan Doherty 0-1, Ciaran McFaul 0-1, Lachlan Murray 0-1",
+      "team2": "Conor McCarthy 0-3 (0-1f), Micheál Bannigan 0-3 (0-1f), Rory Beggan 0-2 (0-2f), Shane Carey 0-2, Ryan Wylie 0-1, Karl O'Connell 0-1, Conor Boyle 0-1, Gary Mohan 0-1"
+    },
+    "truth": {
+      "points": {
+        "team1": 14,
+        "team2": 14
+      },
+      "winner": "draw",
+      "margin_points": 0
+    }
+  },
+  {
+    "id": 5,
+    "year": 2023,
+    "line": 1558,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368377747",
+    "date": "24 June 2023",
+    "round": "Preliminary quarter-final",
+    "team1": "Cork",
+    "team2": "Roscommon",
+    "score": {
+      "team1": "1-14",
+      "team2": "0-16"
+    },
+    "scorers": {
+      "team1": "Steven Sherlock 0-5 (0-4f), Conor Corbett 1-0, Rory Maguire 0-2, Chris Óg Jones 0-2, Tommy Walsh 0-1, Luke Fahy 0-1, Matty Taylor 0-1, Brian O'Driscoll 0-1, Kevin O'Donovan 0-1",
+      "team2": "Diarmuid Murtagh 0-6 (0-3f), Ciaráin Murtagh 0-5 (0-3f), Daire Cregg 0-2 (0-1m), Enda Smith 0-2, Conor Carroll 0-1 (0-1 '45)"
+    },
+    "truth": {
+      "points": {
+        "team1": 17,
+        "team2": 16
+      },
+      "winner": "Cork",
+      "margin_points": 1
+    }
+  },
+  {
+    "id": 6,
+    "year": 2024,
+    "line": 499,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368439200",
+    "date": "28 April 2024",
+    "round": "Semi-final",
+    "team1": "Kildare",
+    "team2": "Louth",
+    "score": {
+      "team1": "0-13",
+      "team2": "0-17"
+    },
+    "scorers": {
+      "team1": "Feely 0-4 (2f), Farrell 0-3f, Kirwan 0-2, Woodgate 0-2f, Archbold 0-1, Flynn 0-1",
+      "team2": "Mulroy 0-7 (4f, 1'45), Durnin 0-2, Grimes 0-2, Lennon 0-2, Burns 0-1, Downey 0-1, Mathews 0-1, Sharkey 0-1"
+    },
+    "truth": {
+      "points": {
+        "team1": 13,
+        "team2": 17
+      },
+      "winner": "Louth",
+      "margin_points": 4
+    }
+  },
+  {
+    "id": 7,
+    "year": 2024,
+    "line": 1154,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368439200",
+    "date": "16 June 2024",
+    "round": "Round 3",
+    "team1": "Dublin",
+    "team2": "Mayo",
+    "score": {
+      "team1": "0-17",
+      "team2": "0-17"
+    },
+    "scorers": {
+      "team1": "Costello 0-7 (3f), Basquel 0-2, Bugler 0-1, Kilkenny 0-1, Mannion 0-1, McCaffrey 0-1, Murchan 0-1, O'Callaghan 0-1, Scully 0-1, Small 0-1",
+      "team2": "O'Donoghue 0-7 (5f), Conroy 0-3, Ruane 0-2, Coen 0-1, Flynn 0-1, Loftus 0-1, O'Shea 0-1f, Reape 0-1 (1'45)"
+    },
+    "truth": {
+      "points": {
+        "team1": 17,
+        "team2": 17
+      },
+      "winner": "draw",
+      "margin_points": 0
+    }
+  },
+  {
+    "id": 8,
+    "year": 2024,
+    "line": 1242,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368439200",
+    "date": "15 June 2024",
+    "round": "Round 3",
+    "team1": "Clare",
+    "team2": "Donegal",
+    "score": {
+      "team1": "0-5",
+      "team2": "2-23"
+    },
+    "scorers": {
+      "team1": "McMahon 0-4 (3f), O'Donnell 0-1",
+      "team2": "Gallen 1-4 (2'45), McHugh 1-4, McBrearty 0-5 (1f), C O'Donnell 0-2, Thompson 0-2, Curran 0-1, Langan 0-1, Mogan 0-1, Moore 0-1, O Baoill 0-1, S O'Donnell 0-1"
+    },
+    "truth": {
+      "points": {
+        "team1": 5,
+        "team2": 29
+      },
+      "winner": "Donegal",
+      "margin_points": 24
+    }
+  },
+  {
+    "id": 9,
+    "year": 2024,
+    "line": 1511,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368439200",
+    "date": "29 June 2024",
+    "round": "Quarter-final",
+    "team1": "Dublin",
+    "team2": "Galway",
+    "score": {
+      "team1": "0-16",
+      "team2": "0-17"
+    },
+    "scorers": {
+      "team1": "Costello 0-4 (2f, 1'45), O'Callaghan 0-4 (2m, 1f), Bugler 0-2, Kilkenny 0-2, Fenton 0-1, Mannion 0-1, McGarry 0-1, Small 0-1m",
+      "team2": "Walsh 0-7 (4f), McDaid 0-3, Conroy 0-1, Culhane 0-1, Darcy 0-1, Heaney 0-1, Maher 0-1, McHugh 0-1, Tierney 0-1m"
+    },
+    "truth": {
+      "points": {
+        "team1": 16,
+        "team2": 17
+      },
+      "winner": "Galway",
+      "margin_points": 1
+    }
+  },
+  {
+    "id": 10,
+    "year": 2024,
+    "line": 1563,
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1368439200",
+    "date": "13 July 2024",
+    "round": "Semi-final",
+    "team1": "Armagh",
+    "team2": "Kerry",
+    "score": {
+      "team1": "1-18",
+      "team2": "1-16"
+    },
+    "scorers": {
+      "team1": "Turbitt 0-5 (3f), McCambridge 1-0, R O'Neill 0-3, Campbell 0-2, Forker 0-2, Grimley 0-2, J Burns 0-1, Grugan 0-1f, McGrane 0-1, McQuillan 0-1",
+      "team2": "Clifford 0-4 (3f), O'Shea 0-4 (1f,1'45), Murphy 1-0, Clifford 0-3, Brosnan 0-1, Burke 0-1, D Geaney 0-1, Moynihan 0-1, O'Connor 0-1"
+    },
+    "truth": {
+      "points": {
+        "team1": 21,
+        "team2": 19
+      },
+      "winner": "Armagh",
+      "margin_points": 2
+    }
+  }
+]
