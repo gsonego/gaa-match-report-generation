@@ -14,3 +14,15 @@ Wikitext of the English Wikipedia season pages of the All-Ireland Senior Footbal
 | 2024 | 1368439200 | 2026-10-21 |
 
 To collect again (this fetches the current revision, which may differ from the ones above): `python scripts/collect_wikipedia.py`.
+
+## Processed data (`data/processed/`)
+
+Produced from the raw pages by `scripts/parse_matches.py`. A match is included only if, for each team, the goals and points of the listed scorers add up to the final score (the sum test).
+
+| File | Content |
+|---|---|
+| `matches_included.csv` | The 131 matches that pass the sum test (year, line in the saved page, date, round, teams, score, permalink) |
+| `matches_exclusions.csv` | The 23 excluded matches, each with its reason and permalink |
+| `matches_summary.md` | Counts per season page and per exclusion reason |
+
+To rebuild: `python scripts/parse_matches.py` (needs the files in `data/raw/`).

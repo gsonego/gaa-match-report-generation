@@ -1,0 +1,24 @@
+year,line,date,round,team1,team2,score_listed,reason,detail,permalink
+2021,147,31 July 2021,Ulster Final,Monaghan,Tyrone,0-15 v 0-16,sum_mismatch,scorers sum to 0-14 v 0-16,https://en.wikipedia.org/w/index.php?oldid=1368408440
+2022,348,29 May 2022,Connacht Final,Galway,Roscommon,2-19 v 2-16,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1376360989
+2022,388,28 May 2022,Munster Final,Kerry,Limerick,1-28 v 0-8,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1376360989
+2022,407,29 May 2022,Ulster Final,Donegal,Derry,1-14 v 1-16,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1376360989
+2022,569,26 June 2022,Quarter-final,Galway,Armagh,,extra_time,,https://en.wikipedia.org/w/index.php?oldid=1376360989
+2023,331,8 April 2023,Quarter-final,London,Sligo,0-12 v 2-20,parse_error,plain count in combined field,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,348,8 April 2023,Quarter-final,New York,Leitrim,,extra_time,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,384,23 April 2023,Semi-final,Roscommon,Galway,1-9 v 1-13,parse_error,names without count,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,491,23 April 2023,Quarter-final,Laois,Dublin,2-9 v 4-30,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,508,23 April 2023,Quarter-final,Offaly,Meath,1-11 v 0-10,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,525,23 April 2023,Quarter-final,Kildare,Wicklow,1-17 v 0-10,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,542,23 April 2023,Quarter-final,Westmeath,Louth,1-11 v 2-10,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,560,30 April 2023,Semi-final,Kildare,Dublin,0-12 v 0-14,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,576,30 April 2023,Semi-final,Offaly,Louth,,extra_time,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,651,22 April 2023,Semi-final,Limerick,Clare,0-15 v 1-15,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,667,22 April 2023,Semi-final,Kerry,Tipperary,0-25 v 0-5,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,685,7 May 2023,,Kerry,Clare,5-14 v 0-15,no_scorers,,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2023,1521,17 June 2023,Round 3,Derry,Clare,1-19 v 1-13,sum_mismatch,scorers sum to 1-16 v 1-13,https://en.wikipedia.org/w/index.php?oldid=1368377747
+2024,292,7 April 2024,Quarter-final,Leitrim,Sligo,0-6 v 0-15,sum_mismatch,scorers sum to 0-6 v 0-14,https://en.wikipedia.org/w/index.php?oldid=1368439200
+2024,343,21 April 2024,Semi-final,Roscommon,Mayo,0-13 v 1-15,sum_mismatch,scorers sum to 0-12 v 1-15,https://en.wikipedia.org/w/index.php?oldid=1368439200
+2024,382,7 April 2024,Preliminary round,Longford,Meath,3-12 v 3-19,sum_mismatch,scorers sum to 3-11 v 3-19,https://en.wikipedia.org/w/index.php?oldid=1368439200
+2024,414,7 April 2024,Preliminary round,Wexford,Carlow,4-19 v 0-8,sum_mismatch,scorers sum to 4-18 v 0-8,https://en.wikipedia.org/w/index.php?oldid=1368439200
+2024,734,27 April 2024,Semi-final,Down,Armagh,2-6 v 0-13,sum_mismatch,scorers sum to 1-6 v 1-13,https://en.wikipedia.org/w/index.php?oldid=1368439200
