@@ -40,3 +40,7 @@ To rebuild: `python scripts/parse_matches.py` (needs the files in `data/raw/`).
 |---|---|
 | `validation_games.xlsx` | 20 matches (the 10 pilot matches plus 10 drawn at random, seed 2027) compared by hand with RTE Sport: score, date, round, winner and, for the pilot matches, the top scorer and total. The "How to" sheet explains the columns |
 | `validation_summary.md` | Method, results and limits of the check |
+
+## Exploration (`notebooks/`)
+
+`notebooks/01_eda_wikipedia.ipynb` explores the included matches (matches per season, exclusion reasons, rounds, margins, goals, scorer notation, the pilot sample against the rest, coverage and the 20-match validation). Figures and tables are saved to `notebooks/figures/`. Run it from anywhere inside the repository after the files above are in place.
