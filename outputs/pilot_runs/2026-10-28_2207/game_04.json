@@ -1,0 +1,21 @@
+{
+  "match_id": 4,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2023\nRound: Round 1\nDate: 27 May 2023\n\nDerry: 0-14\nMonaghan: 0-14\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Derry: Shane McGuigan 0-9 (0-6f, 0-1m), Niall Toner 0-2 (0-1f), Ethan Doherty 0-1, Ciaran McFaul 0-1, Lachlan Murray 0-1\nScorers for Monaghan: Conor McCarthy 0-3 (0-1f), Micheál Bannigan 0-3 (0-1f), Rory Beggan 0-2 (0-2f), Shane Carey 0-2, Ryan Wylie 0-1, Karl O'Connell 0-1, Conor Boyle 0-1, Gary Mohan 0-1",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:07:50.570610+00:00",
+  "response_id": "resp_0479372020a25de4006ae27236536c87d2ba046350565193bb",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# McGuigan’s nine points not enough as Derry and Monaghan draw\n\n**Derry 0-14 Monaghan 0-14**\n\nDerry and Monaghan finished all square in their Senior Football Championship Round 1 meeting on Saturday, May 27, with Shane McGuigan’s nine-point contribution matched by a broader spread of Monaghan scorers.\n\nNeither side found the net, leaving the outcome to be decided entirely by points as both counties opened this stage of their 2023 campaign with a draw.\n\nMcGuigan supplied the bulk of Derry’s total, converting six frees and a mark alongside two points from play. His accuracy from placed balls was central to Derry’s return, accounting for half of their final tally.\n\nNiall Toner added two points, one from a free, while Ethan Doherty, Ciaran McFaul and Lachlan Murray each contributed a point. Those supporting scores helped Derry reach 0-14, but there was no separating the teams on the scoreboard.\n\nMonaghan shared their scoring among eight players, with Conor McCarthy and Micheál Bannigan leading the way on three points apiece. Each converted one free, with their combined six-point haul providing the foundation for Monaghan’s total.\n\nGoalkeeper Rory Beggan chipped in with two frees, while Shane Carey also registered twice. Ryan Wylie, Karl O’Connell, Conor Boyle and Gary Mohan completed the Monaghan scoring with a point each.\n\nThe contrasting scoring returns told their own story: Derry leaned heavily on McGuigan’s finishing, while Monaghan drew contributions from across their side.\n\nUltimately, neither approach produced a winning margin. Both teams had to settle for a share of the spoils after posting identical totals in a goalless championship encounter.",
+  "usage": {
+    "input_tokens": 248,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 474,
+    "output_tokens_details": {
+      "reasoning_tokens": 106
+    },
+    "total_tokens": 722
+  }
+}

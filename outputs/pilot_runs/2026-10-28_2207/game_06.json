@@ -1,0 +1,21 @@
+{
+  "match_id": 6,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2024\nRound: Semi-final\nDate: 28 April 2024\n\nKildare: 0-13\nLouth: 0-17\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Kildare: Feely 0-4 (2f), Farrell 0-3f, Kirwan 0-2, Woodgate 0-2f, Archbold 0-1, Flynn 0-1\nScorers for Louth: Mulroy 0-7 (4f, 1'45), Durnin 0-2, Grimes 0-2, Lennon 0-2, Burns 0-1, Downey 0-1, Mathews 0-1, Sharkey 0-1",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:08:17.277034+00:00",
+  "response_id": "resp_034018316081fa4a006ae27251173487d2be9d91d8802f91ad",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Mulroy leads Louth past Kildare and into championship final\n\n**Louth 0-17 Kildare 0-13**\n\nSam Mulroy struck seven points as Louth secured their place in the Senior Football Championship final with a four-point victory over Kildare on Sunday, April 28.\n\nIn a semi-final decided entirely by points, Louth’s greater return from open play proved telling. They registered 12 points from play to Kildare’s six, with eight players contributing to a winning total that underlined the breadth of their scoring threat.\n\nMulroy led the way, supplementing two points from play with four frees and a ’45. His accuracy provided the foundation, while Durnin, Grimes and Lennon supplied two points apiece to give Louth valuable support beyond their leading marksman.\n\nBurns, Downey, Mathews and Sharkey each added a point as Louth booked their passage to the decider.\n\nFor Kildare, Feely finished as top scorer with four points, two of them from frees. Farrell converted three frees, while Kirwan contributed two points from play and Woodgate landed two placed balls.\n\nArchbold and Flynn completed Kildare’s tally with a point each, but their side’s dependence on frees was reflected in the final accounting. Seven of Kildare’s 13 points came from placed balls, compared with five of Louth’s 17.\n\nFeely’s contribution and Kirwan’s brace offered scoring returns from play, but Louth had more players sharing that burden.\n\nThe decisive difference lay in that collective contribution. While Mulroy supplied the largest individual total, Louth’s other scorers added 10 points between them, ensuring this was more than a one-man effort as they advanced with a deserved victory.",
+  "usage": {
+    "input_tokens": 215,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 491,
+    "output_tokens_details": {
+      "reasoning_tokens": 123
+    },
+    "total_tokens": 706
+  }
+}

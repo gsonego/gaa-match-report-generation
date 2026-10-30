@@ -1,0 +1,21 @@
+{
+  "match_id": 3,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2023\nRound: Preliminary round\nDate: 8 April 2023\n\nArmagh: 0-20\nAntrim: 1-8\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Armagh: Conor Turbitt 0-8 (0-3f, 0-1m), Shane McPartlan 0-4, Rory Grugan 0-3 (0-1f), Ethan Rafferty 0-1 (0-1f), Ciaran Mackin 0-1, Stefan Campbell 0-1, Jemar Hall 0-1, Tiernan Kelly 0-1\nScorers for Antrim: Conor Stewart 1-1, Ruairi McCann (Creggan) 0-1 (0-1f), Ryan Murray 0-1 (0-1f), Eoghan McCabe 0-1, James McAuley 0-1, Pat Shivers 0-1, Ruairi McCann (Aghagallon) 0-1, Odhrán Eastwood 0-1",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:07:37.522487+00:00",
+  "response_id": "resp_0c2a5e4bc9d2b513006ae272294ce887d29c0f57c868979bff",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Turbitt leads the way as Armagh ease past Antrim\n\n**Armagh 0-20 Antrim 1-8**\n\nConor Turbitt struck eight points as Armagh secured a convincing nine-point victory over Antrim in the preliminary round of the Senior Football Championship on Saturday, April 8.\n\nTurbitt supplied the cutting edge to an Armagh attack that had eight players on the scoresheet. His contribution included three frees and a mark, with four points from play underlining his importance to the winners.\n\nShane McPartlan provided strong support with four points, all from play, while Rory Grugan chipped in with three, including a free. Between them, the trio accounted for 15 of Armagh’s 20 points, giving Antrim a scoring challenge they could not match.\n\nConor Stewart registered the only goal of the contest and added a point for Antrim, but even that return could not bridge the considerable gap between the sides. Antrim’s remaining seven points were shared among seven players, leaving Stewart as their only scorer to contribute more than once.\n\nRuairi McCann of Creggan and Ryan Murray each converted a free. Eoghan McCabe, James McAuley, Pat Shivers, Ruairi McCann of Aghagallon and Odhrán Eastwood also landed a point apiece.\n\nArmagh’s supporting scorers ensured the burden did not fall solely on their leading forwards. Ethan Rafferty contributed a free, while Ciaran Mackin, Stefan Campbell, Jemar Hall and Tiernan Kelly each added a point from play.\n\nThe final tally told the story of Armagh’s greater scoring resources. Despite conceding the game’s only goal, their consistent point-taking delivered a decisive championship success.",
+  "usage": {
+    "input_tokens": 290,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 492,
+    "output_tokens_details": {
+      "reasoning_tokens": 120
+    },
+    "total_tokens": 782
+  }
+}

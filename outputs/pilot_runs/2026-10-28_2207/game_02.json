@@ -1,0 +1,21 @@
+{
+  "match_id": 2,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2023\nRound: Preliminary Round\nDate: 9 April 2023\n\nLaois: 2-17\nWexford: 2-13\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Laois: Mark Barry 2-4 (2fs, 1m), Evan O'Carroll 0-6 (1f, 1m, 145), Paul Kingston 0-4 (3fs), Damon Larkin 0-2, Paddy O'Sullivan 0-1\nScorers for Wexford: Ben Brosnan 1-7 (1-0 pen, 5fs), Robbie Brooks 1-1, Sean Nolan 0-2, Paudie Hughes 0-1, Kevin O'Grady 0-1, Eoghan Nolan 0-1 (1 45)",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:07:21.670209+00:00",
+  "response_id": "resp_0c7b394b9630f2a0006ae27219742c87d2b724833f6a99fec7",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Barry’s brace helps Laois see off Wexford\n\n**Laois 2-17 Wexford 2-13**\n\nMark Barry struck two goals as Laois secured a four-point victory over Wexford in the preliminary round of the 2023 Senior Football Championship on Sunday, April 9.\n\nBarry finished with 2-4, while Evan O’Carroll contributed six points as Laois assembled a winning total of 23 points. Wexford matched their opponents’ goal tally but could not bridge the gap in points, despite a 1-7 contribution from Ben Brosnan.\n\nThe scoring returns underlined the importance of both leading marksmen. Barry and Brosnan each supplied ten points in total, with Barry’s two goals central to Laois’s success. His four points included two frees and a mark.\n\nO’Carroll provided valuable support, registering a free, a mark and a 45 among his six points. Paul Kingston added four, three from frees, while Damon Larkin chipped in with two and Paddy O’Sullivan completed the Laois tally.\n\nFor Wexford, Brosnan converted a penalty and landed five frees among his seven points. Robbie Brooks supplied their other goal and added a point, giving Wexford a second significant scoring outlet.\n\nSean Nolan contributed two points, with Paudie Hughes and Kevin O’Grady also on target. Eoghan Nolan’s point came from a 45.\n\nUltimately, with the sides level on goals, Laois’s greater points return settled the contest. Barry, O’Carroll and Kingston accounted for all but three points of their side’s total, providing the attacking foundation for a successful opening championship assignment. Wexford’s own two-goal return was not enough to prevent their preliminary-round defeat.",
+  "usage": {
+    "input_tokens": 233,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 560,
+    "output_tokens_details": {
+      "reasoning_tokens": 191
+    },
+    "total_tokens": 793
+  }
+}

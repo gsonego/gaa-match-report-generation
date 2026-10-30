@@ -1,0 +1,21 @@
+{
+  "match_id": 7,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2024\nRound: Round 3\nDate: 16 June 2024\n\nDublin: 0-17\nMayo: 0-17\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Dublin: Costello 0-7 (3f), Basquel 0-2, Bugler 0-1, Kilkenny 0-1, Mannion 0-1, McCaffrey 0-1, Murchan 0-1, O'Callaghan 0-1, Scully 0-1, Small 0-1\nScorers for Mayo: O'Donoghue 0-7 (5f), Conroy 0-3, Ruane 0-2, Coen 0-1, Flynn 0-1, Loftus 0-1, O'Shea 0-1f, Reape 0-1 (1'45)",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:08:33.564374+00:00",
+  "response_id": "resp_0a14094f2de0e948006ae272616ec087d2b4c337caf6b92aa2",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Costello and O’Donoghue lead the way as Dublin and Mayo finish level\n\n**Dublin 0-17 Mayo 0-17**\n\nDublin and Mayo could not be separated in their Senior Football Championship Round 3 meeting on Sunday, June 16, with both sides registering 17 points in a contest dominated on the scoresheet by Cormac Costello and Ryan O’Donoghue.\n\nThe two leading marksmen contributed seven points apiece, but there were contrasting patterns behind their returns. Costello struck four points from play and added three frees for Dublin, while five of O’Donoghue’s seven points came from placed balls.\n\nWith neither side finding the net, every point carried weight, and the final totals reflected two different approaches to assembling a championship score.\n\nDublin’s attacking contribution was notably widespread. Ten players found the target, with Colm Basquel supplying two points alongside Costello’s seven. Brian Fenton was not among the scorers, but Brian Howard’s fellow Dublin contributors included Bugler, Kilkenny, Mannion, McCaffrey, Murchan, O’Callaghan, Scully and Small, who each registered a point.\n\nMayo had eight scorers, with Conroy providing their strongest support to O’Donoghue through a three-point contribution. Ruane added two, while Coen, Flynn and Loftus each chipped in with a point from play.\n\nO’Shea converted a free and goalkeeper Reape contributed a 45, helping Mayo match Dublin’s total despite the different balance between scores from play and placed balls.\n\nDublin finished with 14 points from play to Mayo’s 10, but Mayo’s greater return from dead-ball opportunities cancelled out that advantage. Ultimately, neither side’s scoring formula proved sufficient to secure outright victory, leaving the teams level at the conclusion of their third-round encounter.",
+  "usage": {
+    "input_tokens": 251,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 459,
+    "output_tokens_details": {
+      "reasoning_tokens": 71
+    },
+    "total_tokens": 710
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "match_id": 10,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2024\nRound: Semi-final\nDate: 13 July 2024\n\nArmagh: 1-18\nKerry: 1-16\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Armagh: Turbitt 0-5 (3f), McCambridge 1-0, R O'Neill 0-3, Campbell 0-2, Forker 0-2, Grimley 0-2, J Burns 0-1, Grugan 0-1f, McGrane 0-1, McQuillan 0-1\nScorers for Kerry: Clifford 0-4 (3f), O'Shea 0-4 (1f,1'45), Murphy 1-0, Clifford 0-3, Brosnan 0-1, Burke 0-1, D Geaney 0-1, Moynihan 0-1, O'Connor 0-1",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:09:17.776408+00:00",
+  "response_id": "resp_0c6e052bbe87f4a1006ae2728d858c87d29c0a20e6297a154f",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Armagh edge Kerry in extra-time thriller to reach final\n\n**Armagh 1-18 Kerry 1-16**\n\nArmagh booked their place in the 2024 Senior Football Championship final with a stirring two-point victory over Kerry after extra time on Saturday, July 13.\n\nIn a gripping semi-final, Armagh’s resilience and spread of scoring proved decisive as they overcame the Kingdom to move within one victory of championship glory.\n\nConor Turbitt led the winners’ scoring with five points, including three frees, while Barry McCambridge supplied their crucial goal. R O’Neill contributed three points, with Campbell, Forker and Grimley adding two apiece.\n\nKerry carried a persistent threat through the Clifford brothers and Seán O’Shea. David Clifford and O’Shea each finished with four points, while Paudie Clifford chipped in with three. Murphy’s goal helped keep Kerry firmly in contention, but they could not find enough scores to deny Armagh.\n\nThe sides were locked at 1-13 apiece at the end of normal time, leaving an additional 20 minutes to settle a tense contest. Armagh found the greater return during that decisive period, outscoring Kerry by five points to three to secure a memorable victory.\n\nTheir attacking contribution extended well beyond the leading scorers. J Burns, McGrane and McQuillan each registered a point, while Grugan converted a free, underlining the collective effort behind the result.\n\nBrosnan, Burke, D Geaney, Moynihan and O’Connor all added points for Kerry, but their challenge ultimately fell short.\n\nFor Armagh, it was an afternoon defined by resolve under pressure and the ability to seize a narrow opening when the stakes were highest. A championship final now awaits.",
+  "usage": {
+    "input_tokens": 259,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 690,
+    "output_tokens_details": {
+      "reasoning_tokens": 315
+    },
+    "total_tokens": 949
+  }
+}

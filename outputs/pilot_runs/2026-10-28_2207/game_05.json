@@ -1,0 +1,21 @@
+{
+  "match_id": 5,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2023\nRound: Preliminary quarter-final\nDate: 24 June 2023\n\nCork: 1-14\nRoscommon: 0-16\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Cork: Steven Sherlock 0-5 (0-4f), Conor Corbett 1-0, Rory Maguire 0-2, Chris Óg Jones 0-2, Tommy Walsh 0-1, Luke Fahy 0-1, Matty Taylor 0-1, Brian O'Driscoll 0-1, Kevin O'Donovan 0-1\nScorers for Roscommon: Diarmuid Murtagh 0-6 (0-3f), Ciaráin Murtagh 0-5 (0-3f), Daire Cregg 0-2 (0-1m), Enda Smith 0-2, Conor Carroll 0-1 (0-1 '45)",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:08:04.667135+00:00",
+  "response_id": "resp_0fd9c0b8543eb564006ae2724469b487d2a2d15ce9f8de8da8",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Corbett goal proves decisive as Cork edge Roscommon\n\n**Cork 1-14 Roscommon 0-16**\n\nCork secured their place in the Senior Football Championship quarter-finals with a narrow one-point victory over Roscommon in their preliminary quarter-final on Saturday, June 24.\n\nConor Corbett’s goal provided the crucial difference on the scoreboard, as Cork’s broader spread of scorers helped them overcome a combined 11-point contribution from Roscommon’s Murtagh brothers.\n\nSteven Sherlock led the Cork scoring with five points, four from frees, while Rory Maguire and Chris Óg Jones supplied two points apiece. Corbett’s three-pointer was the only goal of a contest ultimately decided by the smallest possible margin.\n\nRoscommon had the game’s leading scorer in Diarmuid Murtagh, who registered six points, including three frees. Ciaráin Murtagh added five, also converting three placed balls, but their accuracy was not enough to carry their side into the last eight.\n\nThe scoring returns underlined Cork’s collective contribution. Tommy Walsh, Luke Fahy, Matty Taylor, Brian O’Driscoll and Kevin O’Donovan each chipped in with a point, giving the winners nine different scorers.\n\nRoscommon’s support came through Daire Cregg and Enda Smith, who finished with two points each. Cregg’s tally included a mark, while goalkeeper Conor Carroll also contributed by converting a ’45.\n\nAlthough Roscommon accumulated more individual scores, Cork’s ability to find the net tipped the balance: their 1-14 amounted to 17 points against Roscommon’s 16.\n\nIt was enough to keep Cork’s championship campaign alive, while Roscommon were left to reflect on an agonisingly narrow exit despite the substantial returns from their principal scoring threats.",
+  "usage": {
+    "input_tokens": 257,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 493,
+    "output_tokens_details": {
+      "reasoning_tokens": 120
+    },
+    "total_tokens": 750
+  }
+}

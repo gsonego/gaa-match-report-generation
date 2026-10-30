@@ -1,0 +1,21 @@
+{
+  "match_id": 8,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2024\nRound: Round 3\nDate: 15 June 2024\n\nClare: 0-5\nDonegal: 2-23\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Clare: McMahon 0-4 (3f), O'Donnell 0-1\nScorers for Donegal: Gallen 1-4 (2'45), McHugh 1-4, McBrearty 0-5 (1f), C O'Donnell 0-2, Thompson 0-2, Curran 0-1, Langan 0-1, Mogan 0-1, Moore 0-1, O Baoill 0-1, S O'Donnell 0-1",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:08:47.552976+00:00",
+  "response_id": "resp_0138f178c09825ee006ae2726f4fa887d29b22e60916c25127",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Donegal overwhelm Clare in 24-point championship rout\n\n**Donegal 2-23 Clare 0-5**\n\nDonegal delivered an emphatic statement in Round 3 of the Senior Football Championship on Saturday, June 15, sweeping aside Clare by 24 points in a thoroughly one-sided contest.\n\nGoals from Gallen and McHugh underpinned a commanding attacking return, with both players finishing on 1-4 as Donegal spread the scoring across 11 contributors. Clare, by contrast, managed just five points, four of them supplied by McMahon.\n\nThe scale of Donegal’s superiority was reflected in a final tally of 29 points when their goals were included. Their points alone would have been comfortably sufficient to settle the contest, while the two green flags added further weight to an already emphatic scoreline.\n\nMcBrearty contributed five points, including one free, to complement the seven-point individual returns of Gallen and McHugh. Gallen’s tally included two converted 45s.\n\nThere was considerable depth behind that leading trio. C O’Donnell and Thompson registered two points apiece, while Curran, Langan, Mogan, Moore, O Baoill and S O’Donnell each added one. That breadth of contribution provided a striking contrast with Clare’s dependence on McMahon for the bulk of their scores.\n\nThree of McMahon’s four points came from frees, with O’Donnell supplying Clare’s only other score. It left Clare with just two points from play, a stark illustration of their limited attacking return.\n\nFor Donegal, the outcome was comprehensive: two goals, 23 points and a winning margin that left no doubt about the gulf between the sides on the day. Clare were left to absorb a chastening championship defeat.",
+  "usage": {
+    "input_tokens": 212,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 500,
+    "output_tokens_details": {
+      "reasoning_tokens": 137
+    },
+    "total_tokens": 712
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prompt_file": "prompts/v1_condition_a.md",
+  "prompt_sha256": "03dc9c2dfd78d0fefafffbfd6f4a3be6b90acc41b65c2a51a9589ae7e4559efc",
+  "model_requested": "gpt-6.1-sol",
+  "api": "responses",
+  "parameters": "API defaults (none set)",
+  "matches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "started_utc": "2026-10-28T22:07:04.919057+00:00"
+}

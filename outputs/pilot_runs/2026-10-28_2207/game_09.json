@@ -1,0 +1,21 @@
+{
+  "match_id": 9,
+  "prompt": "Write a match report for the following Gaelic football match, in the style of a newspaper match report. Write about 250 words in English, with a headline.\n\nCompetition: Senior Football Championship 2024\nRound: Quarter-final\nDate: 29 June 2024\n\nDublin: 0-16\nGalway: 0-17\n\nScores are written as goals-points (1 goal = 3 points).\n\nScorers for Dublin: Costello 0-4 (2f, 1'45), O'Callaghan 0-4 (2m, 1f), Bugler 0-2, Kilkenny 0-2, Fenton 0-1, Mannion 0-1, McGarry 0-1, Small 0-1m\nScorers for Galway: Walsh 0-7 (4f), McDaid 0-3, Conroy 0-1, Culhane 0-1, Darcy 0-1, Heaney 0-1, Maher 0-1, McHugh 0-1, Tierney 0-1m",
+  "model_requested": "gpt-6.1-sol",
+  "timestamp_utc": "2026-10-28T22:09:02.124990+00:00",
+  "response_id": "resp_02872634c8dd4e59006ae2727de70887d28e2004c7e0f0f43e",
+  "model_returned": "gpt-6.1-sol",
+  "report": "# Galway dethrone Dublin in thrilling one-point quarter-final win\n\n**Galway 0-17 Dublin 0-16**\n\nGalway ended Dublin’s reign as All-Ireland champions with a dramatic one-point victory in their Senior Football Championship quarter-final on Saturday, June 29.\n\nIn a contest decided entirely by points, Shane Walsh’s seven-point contribution proved central as Galway secured a semi-final place and left Dublin reflecting on the narrowest of defeats.\n\nWalsh converted four frees, while his three points from play underlined his importance to the Galway attack. Cillian McDaid provided outstanding support with three points, giving the winners a crucial scoring threat beyond their chief marksman.\n\nDublin’s challenge was led by Cormac Costello and Con O’Callaghan, who finished with four points apiece. Costello’s tally included two frees and a ’45, while O’Callaghan registered two marks and a free.\n\nBrian Fenton and Paul Mannion also contributed, but Dublin could not find the extra score needed to force the contest beyond normal time.\n\nGalway’s scoring spread ultimately helped carry them through. Paul Conroy, Cillian Ó Curraoin’s attacking colleagues Patrick Culhane and Johnny Heaney, and Céin Darcy were among those to raise white flags, alongside John Maher and Dylan McHugh. Matthew Tierney added a point from a mark.\n\nAt the other end, Seán Bugler and Ciarán Kilkenny struck two points each for Dublin, with McGarry and Small completing their tally, the latter also scoring from a mark.\n\nThe final margin reflected how little separated the sides, but Galway’s 17 points were enough to deliver a memorable championship victory and bring Dublin’s title defence to an abrupt end.",
+  "usage": {
+    "input_tokens": 246,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 592,
+    "output_tokens_details": {
+      "reasoning_tokens": 230
+    },
+    "total_tokens": 838
+  }
+}
