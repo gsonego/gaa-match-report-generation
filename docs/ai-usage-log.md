@@ -30,6 +30,15 @@ Responsibility for all research decisions and for the final text remains with th
 
 ## Entries
 
+### 2026-10-28: Pilot run, validation of 20 matches, EDA and extra-time filter fix
+
+- Category: Code / Evaluation
+- Tool / model: Claude (claude-sonnet-5-5)
+- Main prompt: "Run me through the pilot step by step, then read the 10 reports against the source data."
+- How the output was used or changed: the author asked for each step to be explained and approved first, chose condition A (raw data) for prompt v1, added the rule "1 goal = 3 points" and removed "All-Ireland" from the competition line, ran the 10 API calls on their own machine, and checked 20 matches by hand against RTE Sport. After reading the reports the author asked for the extra-time problem to be fixed everywhere, and decided to keep the pilot sample as run and to treat that match as out of scope.
+- Verification: the pilot run was checked for 10 successful calls, the returned model id and the prompt hash. The reports were read against the structured input. The extra-time flag of the Armagh v Kerry (2024) match box was checked in the saved page, and the count of `aet = yes` flags (10) was checked in the raw files. After the fix the parser was re-run: 122 matches included, 32 excluded (13 for extra time or penalties).
+- Decision informed: prompt v1 (condition A); the filter now reads the `aet` and penalty flags; pilot error table based on 9 matches; numbers in the data section of the interim report (122 of 154).
+
 ### 2026-10-24: Wikipedia match parsing, sum test, exclusion log and pilot sample
 
 - Category: Data / Code
@@ -37,7 +46,7 @@ Responsibility for all research decisions and for the final text remains with th
 - Main prompt: "If we have enough data to start, let's exclude the inconsistencies. I'd like a summary of these situations recorded so we can put it in the dissertation."
 - How the output was used or changed: the author asked for each step to be explained and approved before it was run. The author widened the scope from the All-Ireland knockout games to any match with complete data, decided to exclude inconsistent matches and log every exclusion, left matches that went to extra time or penalties out for now, and chose a seeded random draw for the pilot over a planned selection. A first parser fix caused a regression (2021 dropped from 6 to 4 matches passing the sum test); it was caught by comparing runs and then corrected.
 - Verification: the sum test (scorers add up to the final score) was run over all 154 match boxes of the 2021-2024 season pages, and the pilot draw was run twice with identical output. The author checked by hand, against the raw page text, that the scorers of Dublin v Kildare (2022) add up to the listed score and that the Leitrim v Sligo (2024) scorer list is one point short of the listed score; one pilot match (Armagh v Kerry, 2024) was compared with the Wikipedia page of the saved revision.
-- Decision informed: inclusion rule (sum test), exclusion log kept for the dissertation, pilot sample of 10 matches drawn at random (seed 2026) from the 131 that pass.
+- Decision informed: inclusion rule (sum test), exclusion log kept for the dissertation, pilot sample of 10 matches drawn at random (seed 2026) from the 131 that passed at the time (122 after the extra-time fix, see the entry of 2026-10-28).
 
 ### 2026-10-21: Wikipedia collection and alternative data source
 

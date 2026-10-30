@@ -29,8 +29,8 @@ Template:
 - Wikipedia collection, step 1: raw page text and revision ids saved for 2021-2024.
 - Supervisor answers received by email (see `meetings.md`).
 - Enquiry sent to Foireann about access to its open data API.
-- Wikipedia collection, step 2: match parser and sum test (scorers must add up to the final score). 131 of 154 match boxes on the 2021-2024 season pages pass; every exclusion is logged with its reason.
-- Pilot sample drawn: 10 matches at random (fixed seed) from the 131 that pass.
+- Wikipedia collection, step 2: match parser and sum test (scorers must add up to the final score). 122 of 154 match boxes on the 2021-2024 season pages pass; every exclusion is logged with its reason. (Corrected on 28 Oct: the first count was 131, before the extra-time filter was fixed; see the problems below.)
+- Pilot sample drawn: 10 matches at random (fixed seed) from the 131 that passed at the time.
 
 ### Problems / decisions
 - The meeting with the supervisor replaces the email planned in the roadmap for raising the priority A questions.
@@ -38,7 +38,7 @@ Template:
 - No ethics form is needed (no human participants).
 - Foireann API access requires a club administrator, so the pilot stays with Wikipedia while the enquiry is pending.
 - Scope widened: any match with complete, documentable data is eligible, not only the All-Ireland knockout games. Inconsistent matches are excluded and logged.
-- Matches that went to extra time or penalties are left out for now (possible use in the final report).
+- Matches that went to extra time or penalties are left out for now (possible use in the final report). The first version of the filter only read the score text and missed the `aet` and penalty flags of the match boxes. Reading the pilot reports showed it: one included match (Armagh v Kerry, 2024) had gone to extra time. The filter now reads the flags, which excludes 10 more matches (131 to 122 included). The pilot sample was kept as it was run, and that match is out of scope in the error table.
 - The half-time score is present in only 5 of the 154 match boxes, so claims about the flow of a match are possible for very few matches.
 
 ### Next week

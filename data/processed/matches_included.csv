@@ -2,8 +2,6 @@ year,line,date,round,team1,team2,score_listed,permalink
 2021,81,25 July 2021,Connacht Final,Mayo,Galway,2-14 v 2-8,https://en.wikipedia.org/w/index.php?oldid=1368408440
 2021,105,1 August 2021,Leinster Final,Dublin,Kildare,0-20 v 1-9,https://en.wikipedia.org/w/index.php?oldid=1368408440
 2021,126,25 July 2021,Munster Final,Kerry,Cork,4-22 v 1-9,https://en.wikipedia.org/w/index.php?oldid=1368408440
-2021,170,14 August 2021,Semi-final,Mayo,Dublin,0-17 v 0-14,https://en.wikipedia.org/w/index.php?oldid=1368408440
-2021,188,28 August 2021,Semi-final,Kerry,Tyrone,0-22 v 3-14,https://en.wikipedia.org/w/index.php?oldid=1368408440
 2021,211,11 September 2021,All-Ireland Final,Tyrone,Mayo,2-14 v 0-15,https://en.wikipedia.org/w/index.php?oldid=1368408440
 2022,368,28 May 2022,Leinster Final,Dublin,Kildare,5-17 v 1-15,https://en.wikipedia.org/w/index.php?oldid=1376360989
 2022,426,4 June 2022,Round 1,Mayo,Monaghan,1-13 v 0-12,https://en.wikipedia.org/w/index.php?oldid=1376360989
@@ -36,7 +34,6 @@ year,line,date,round,team1,team2,score_listed,permalink
 2023,771,23 April 2023,Quarter-final,Down,Donegal,2-13 v 1-11,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,788,29 April 2023,Semi-final,Derry,Monaghan,1-21 v 2-10,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,803,30 April 2023,Semi-final,Armagh,Down,4-10 v 0-12,https://en.wikipedia.org/w/index.php?oldid=1368377747
-2023,820,14 May 2023,Final,Derry,Armagh,1-15 v 0-18,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1179,20 May 2023,Round 1,Kerry,Mayo,0-17 v 1-19,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1194,27 May 2023,Round 1,Louth,Cork,1-17 v 1-19,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1209,3 June 2023,Round 2,Cork,Kerry,0-15 v 1-14,https://en.wikipedia.org/w/index.php?oldid=1368377747
@@ -65,7 +62,6 @@ year,line,date,round,team1,team2,score_listed,permalink
 2023,1588,24 June 2023,Preliminary quarter-final,Donegal,Tyrone,0-13 v 1-18,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1603,25 June 2023,Preliminary quarter-final,Galway,Mayo,0-12 v 1-10,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1620,1 July 2023,Quarter-final,Kerry,Tyrone,2-18 v 0-12,https://en.wikipedia.org/w/index.php?oldid=1368377747
-2023,1635,1 July 2023,Quarter-final,Armagh,Monaghan,0-14 v 0-14,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1654,2 July 2023,Quarter-final,Derry,Cork,1-12 v 1-8,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1669,2 July 2023,Quarter-final,Dublin,Mayo,2-17 v 0-11,https://en.wikipedia.org/w/index.php?oldid=1368377747
 2023,1686,15 July 2023,Semi-final,Dublin,Monaghan,1-17 v 0-13,https://en.wikipedia.org/w/index.php?oldid=1368377747
@@ -92,9 +88,6 @@ year,line,date,round,team1,team2,score_listed,permalink
 2024,664,13 April 2024,Quarter-final,Down,Antrim,0-13 v 0-9,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,681,14 April 2024,Quarter-final,Fermanagh,Armagh,0-9 v 3-11,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,698,20 April 2024,Quarter-final,Derry,'''Donegal''',0-17 v 4-11,https://en.wikipedia.org/w/index.php?oldid=1368439200
-2024,715,21 April 2024,Quarter-final,Cavan,Tyrone,3-16 v 1-23,https://en.wikipedia.org/w/index.php?oldid=1368439200
-2024,751,28 April 2024,Semi-final,Donegal,Tyrone,0-18 v 0-16,https://en.wikipedia.org/w/index.php?oldid=1368439200
-2024,770,12 May 2024,Final,Armagh,Donegal,0-20 v 0-20,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,970,18 May 2024,Round 1,Galway,Derry,2-14 v 0-15,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,986,25 May 2024,Round 1,Armagh,Westmeath,0-16 v 0-11,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1003,2 June 2024,Round 2,Westmeath,Galway,0-11 v 1-12,https://en.wikipedia.org/w/index.php?oldid=1368439200
@@ -121,12 +114,10 @@ year,line,date,round,team1,team2,score_listed,permalink
 2024,1360,16 June 2024,Round 3,Kerry,Louth,2-21 v 1-10,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1416,22 June 2024,Preliminary quarter-final,Galway,Monaghan,0-14 v 0-11,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1432,22 June 2024,Preliminary quarter-final,Tyrone,Roscommon,0-12 v 0-14,https://en.wikipedia.org/w/index.php?oldid=1368439200
-2024,1448,22 June 2024,Preliminary quarter-final,Mayo,Derry,1-12 v 0-15,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1478,23 June 2024,Preliminary quarter-final,Louth,Cork,1-9 v 1-8,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1495,29 June 2024,Quarter-final,Armagh,Roscommon,2-12 v 0-12,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1511,29 June 2024,Quarter-final,Dublin,Galway,0-16 v 0-17,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1528,30 June 2024,Quarter-final,Donegal,Louth,1-23 v 0-18,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1545,30 June 2024,Quarter-final,Kerry,Derry,0-15 v 0-10,https://en.wikipedia.org/w/index.php?oldid=1368439200
-2024,1563,13 July 2024,Semi-final,Armagh,Kerry,1-18 v 1-16,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1581,14 July 2024,Semi-final,Donegal,Galway,0-15 v 1-14,https://en.wikipedia.org/w/index.php?oldid=1368439200
 2024,1600,28 July 2024,Final,Armagh,Galway,1-11 v 0-13,https://en.wikipedia.org/w/index.php?oldid=1368439200

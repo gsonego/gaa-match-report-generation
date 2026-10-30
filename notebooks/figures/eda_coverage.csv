@@ -1,8 +1,8 @@
 item,matches
 Match boxes found,154
-Included (scorers add up to the score),131
-Excluded: no scorer list,11
-Excluded: extra time / penalties,3
+Included (scorers add up to the score),122
+Excluded: no scorer list,10
+Excluded: extra time / penalties,13
 Excluded: sum test or parsing failed,9
 Boxes with a half-time score,5
-...of which in the included set,5
+...of which in the included set,3

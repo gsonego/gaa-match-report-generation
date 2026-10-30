@@ -4,7 +4,7 @@ Date: 26 Oct 2026. Data: `validation_games.xlsx` (same folder).
 
 ## Method
 
-- Sample: 20 of the 131 matches that pass the sum test. Games 1-10 are the pilot matches (`pilot_games.csv`); games 11-20 are drawn with `random.Random(2027)` from the other 121.
+- Sample: 20 of the 131 matches that passed the sum test at the time (122 after the extra-time fix; game 10 was excluded). Games 1-10 are the pilot matches (`pilot_games.csv`); games 11-20 are drawn with `random.Random(2027)` from the other 121 (all still included).
 - Each match was checked by hand against one independent source (RTE Sport), not the Wikipedia box.
 - Fields checked: final score of each team, date, round, winner. Top scorer and total only for the 10 pilot matches.
 
@@ -19,6 +19,6 @@ Date: 26 Oct 2026. Data: `validation_games.xlsx` (same folder).
 
 - Single independent source (RTE).
 - With 0 disagreements in 20, the true rate is only bounded (about 15% at 95% confidence, rule of three).
-- The sample is drawn after the sum test, so it describes the 131 included matches, not all 154.
+- The sample is drawn after the sum test, so it describes the included matches, not all 154. Game 10 (Armagh v Kerry) went to extra time; the final score agreed with RTE because both give the score after extra time, so this check could not detect it.
 - Scorer lists are not validated one by one; the sum test checks consistency with the score, and the top-scorer check covers the pilot matches only.
 - The `round` field does not carry the group in the group stage.

@@ -153,7 +153,11 @@ def main():
                        team1=team(f.get('team1', '')), team2=team(f.get('team2', '')),
                        permalink=meta[y]['permalink'])
             score_raw = ' '.join(f.get(k, '') for k in ('score', 'score1', 'score2'))
-            if re.search(r'a\.e\.t|\baet\b|extra time|shoot-?out|\bpens?\b', score_raw, re.I):
+            # Wikipedia flags extra time with its own |aet = yes parameter (and penalties with
+            # |penaltyscore / |penalties1), so looking only at the score text is not enough.
+            flagged = f.get('aet', '').strip().lower() in ('yes', 'y', 'true', '1') \
+                or any(f.get(k, '').strip() for k in ('penaltyscore', 'penalties1', 'penalties2'))
+            if flagged or re.search(r'a\.e\.t|\baet\b|extra time|shoot-?out|\bpens?\b', score_raw, re.I):
                 c['extra_time'] += 1
                 excluded.append({**row, 'score_listed': '', 'reason': 'extra_time', 'detail': ''}); continue
             sc = parse_score(f)
