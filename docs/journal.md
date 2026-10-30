@@ -13,6 +13,37 @@ Template:
 
 ---
 
+## Week 2026-W44 (26 Oct - 1 Nov)
+
+### Plan
+- Mon 26 - Tue 27: validation against RTE Sport; prompt v1 versioned; EDA notebook and figures.
+- Wed 28: pilot run (10 reports). Thu 29 - Fri 30: pilot error table; interim report drafted.
+- Sat 31: assembly, appendices, references. Sun 1 Nov: proofread, PDF, zip, submit to the supervisor by 13:00.
+
+### Done
+- Validation of 20 matches against RTE Sport (26 Oct): score, date and winner agree in 20/20; top scorer agrees in the 10 pilot matches.
+- Prompt v1, condition A, committed in `prompts/` (27 Oct).
+- Pilot run (28 Oct): 10 reports with `gpt-6.1-sol`, saved unchanged with model id, timestamp and prompt hash in `outputs/pilot_runs/`.
+- Extra-time filter fixed after reading the reports: the parser now reads the `aet` and penalty flags (122 of 154 match boxes included).
+- EDA notebook and figures (`notebooks/`).
+- Pilot error table (`outputs/pilot_error_table.xlsx`): 146 claims in the 9 in-scope reports; 129 supported, 4 errors (2 invented names, 1 wrong count, 1 wrong stage), 1 misleading, 12 beyond the data (10 true, 2 unverified). Score, winner and margin were right in all 9 reports.
+- Interim report drafted: introduction, literature review (16 sources, Harvard list), data and methods, plan for the remaining work, appendices.
+- Repository documentation refreshed (README, `docs/ethics.md`, `models/README.md`, `.env.example`, pinned `requirements.txt`).
+
+### Problems / decisions
+- The pilot sample was kept as run; the extra-time match (Armagh v Kerry, 2024) is out of scope in the error table.
+- The pilot is small, read by one rater, and the claims were selected by hand: it shows which kinds of error to expect, not how often they occur.
+- Open with the supervisor: thesis format (short thesis with artefact approved by email, to be confirmed), evaluation criteria per claim type, use of published match reports.
+- Half-time scores exist in only 5 of 154 match boxes, so claims about the flow of a match stay out of scope.
+
+### Next week
+- Mon 2 - Sun 8 Nov: Q&A preparation (why verification, why Wikipedia, how improvement is measured, pilot results).
+- Split the included matches into a development set and a sealed test set, in a dated commit.
+- Confirm the thesis format with the supervisor and record the answer in `meetings.md`.
+- From Mon 9 Nov: pre-registration, then the generation pipeline with prompts A and B.
+
+---
+
 ## Week 2026-W43 (19 Oct - 25 Oct)
 
 ### Plan
